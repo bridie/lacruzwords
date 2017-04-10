@@ -1,0 +1,38 @@
+{
+	"perro": {
+		"clue": "dog",
+		"position": [[1,1], [5, 1]]
+	},
+	"rinocerente": {
+		"clue": "rhinoceros",
+		"position": [[3, 1], [3, 11]]
+	},
+	"cocodrilo": {
+		"clue": "crocodile",
+		"position": [[3, 5], [11, 5]]
+	},
+	"tortuga": {
+		"clue": "turtle",
+		"position": [[8, 3],[8, 9]]
+	},
+	"mono": {
+		"clue": "monkey",
+		"position": [[11, 2],[11, 5]]
+	},
+	"araña": {
+		"clue": "spider",
+		"position": [[2, 7],[6, 7]]
+	},
+	"gato": {
+		"clue": "cat",
+		"position": [[8, 8],[11, 8]]
+	},
+	"conejo": {
+		"clue": "rabbit",
+		"position": [[11, 7],[11, 12]]
+	},
+	"elefante": {
+		"clue": "elephant",
+		"position": [[1, 11],[8, 11]]
+	}
+}
