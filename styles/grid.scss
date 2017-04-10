@@ -1,0 +1,36 @@
+.grid {
+
+  &__row {
+    border-bottom: 1px solid #000;
+    clear: left;
+    float: left;
+    height: 60px;
+
+    &:first-child {
+      border-top: 1px solid #000;
+    }
+  }
+
+  &__cell {
+    border: 0;
+    border-right: 1px solid #000;
+    display: inline-block;
+    font-size: 36px;
+    height: 60px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 60px;
+
+    &--active {
+      background: transparent;
+    }
+
+    &--inactive {
+      background: #000;
+    }
+
+    &:first-child {
+      border-left: 1px solid #000;
+    }
+  }
+}
