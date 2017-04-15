@@ -1,4 +1,4 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import _ from 'lodash';
 import { fetchTheme } from '../actions/index';
@@ -7,7 +7,7 @@ require('./../../styles/grid.scss');
 
 class Grid extends Component {
 	componentWillMount() {
-		const theme = this.props.params.theme;
+		const theme = this.props.match.params.theme;
 		const test = this.props.fetchTheme(theme);
 	}
 
