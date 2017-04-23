@@ -40,5 +40,15 @@ describe("Grid Component", () => {
   		const grid = renderer.create(<Grid {...props} />).toJSON();
   		expect(grid).toMatchSnapshot();
 	});
+
+	it('correctly specifies whether a cell is active or not', () => {
+		const { enzymeWrapper } = setup();
+
+		const notActiveCell = [2, 2];
+		const activeCell = [1, 1];
+
+		expect(enzymeWrapper.instance().isActive(...notActiveCell)).toEqual(false);
+		expect(enzymeWrapper.instance().isActive(...activeCell)).toEqual(true);
+	});
 })
 
