@@ -1,0 +1,920 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grid Component renders correctly 1`] = `
+<div
+  className="grid"
+>
+  <div
+    className="grid__row"
+  >
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+  </div>
+  <div
+    className="grid__row"
+  >
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+  </div>
+  <div
+    className="grid__row"
+  >
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+  </div>
+  <div
+    className="grid__row"
+  >
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+  </div>
+  <div
+    className="grid__row"
+  >
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+  </div>
+  <div
+    className="grid__row"
+  >
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+  </div>
+  <div
+    className="grid__row"
+  >
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+  </div>
+  <div
+    className="grid__row"
+  >
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+  </div>
+  <div
+    className="grid__row"
+  >
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+  </div>
+  <div
+    className="grid__row"
+  >
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+  </div>
+  <div
+    className="grid__row"
+  >
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--active"
+      disabled={false}
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+  </div>
+  <div
+    className="grid__row"
+  >
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+    <input
+      className="grid__cell grid__cell--inactive"
+      disabled="disabled"
+      maxLength="1"
+      type="text"
+    />
+  </div>
+</div>
+`;

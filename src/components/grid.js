@@ -5,10 +5,10 @@ import { fetchTheme } from '../actions/index';
 
 require('./../../styles/grid.scss');
 
-class Grid extends Component {
+export class Grid extends Component {
 	componentWillMount() {
 		const theme = this.props.match.params.theme;
-		const test = this.props.fetchTheme(theme);
+		this.props.fetchTheme(theme);
 	}
 
 	renderRows() {
