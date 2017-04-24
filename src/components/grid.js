@@ -1,16 +1,9 @@
 import React, { Component } from 'react';
-import { connect } from 'react-redux';
 import _ from 'lodash';
-import { fetchTheme } from '../actions/index';
 
 require('./../../styles/grid.scss');
 
-export class Grid extends Component {
-	componentWillMount() {
-		const theme = this.props.match.params.theme;
-		this.props.fetchTheme(theme);
-	}
-
+export default class Grid extends Component {
 	renderRows() {
 		let i;
 		let rows = [];
@@ -47,10 +40,7 @@ export class Grid extends Component {
 	}
 
 	render() {
-		if (!this.props.currentTheme) {
-			return (<div>Loading...</div>);
-		}
-
+		console.log(this.props);
 		return (
 			<div className="grid">
 				{this.renderRows()}
@@ -72,9 +62,3 @@ export class Grid extends Component {
 		return isActive;
 	}
 }
-
-function mapStateToProps(state) {
-	return { currentTheme: state.theme.currentTheme };
-}
-
-export default connect(mapStateToProps, { fetchTheme })(Grid);

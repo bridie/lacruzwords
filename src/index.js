@@ -13,7 +13,7 @@ const createStoreWithMiddleware = applyMiddleware(promise)(createStore);
 ReactDOM.render(
   <Provider store={createStoreWithMiddleware(reducers)}>
     <BrowserRouter>
-    	<Route path="/" component={App} />
+		<Route path="/:theme" component={App} />
     </BrowserRouter>
   </Provider>
   , document.querySelector('.container'));
