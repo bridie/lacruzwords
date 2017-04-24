@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Clues Component renders correctly 1`] = `
+<div
+  className="clues"
+>
+  <div
+    className="clues__column clues__column--across"
+  >
+    <h2>
+      Across
+    </h2>
+    <p>
+      <span>
+        1
+        .
+      </span>
+      <span>
+         
+      </span>
+      dog
+    </p>
+    <p>
+      <span>
+        3
+        .
+      </span>
+      <span>
+         
+      </span>
+      crocodile
+    </p>
+  </div>
+  <div
+    className="clues__column clues__column--down"
+  >
+    <h2>
+      Down
+    </h2>
+    <p>
+      <span>
+        2
+        .
+      </span>
+      <span>
+         
+      </span>
+      rhinoceros
+    </p>
+  </div>
+</div>
+`;

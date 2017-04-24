@@ -1,0 +1,16 @@
+.clues {
+	border: 1px solid black;
+	float: right;
+
+	&__column {
+		padding: 10px 20px;
+
+		&--across {
+			float: left;
+		}
+
+		&--down {
+			float: right;
+		}
+	}
+}

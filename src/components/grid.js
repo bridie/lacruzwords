@@ -40,7 +40,6 @@ export default class Grid extends Component {
 	}
 
 	render() {
-		console.log(this.props);
 		return (
 			<div className="grid">
 				{this.renderRows()}

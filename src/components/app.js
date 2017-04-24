@@ -3,6 +3,7 @@ import { Route } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { fetchTheme } from '../actions/index';
 import Grid from './grid';
+import Clues from './clues';
 
 require('./../../styles/app.scss');
 
@@ -20,6 +21,7 @@ export class App extends Component {
 	    return (
 			<div>
 				<Grid currentTheme={this.props.currentTheme} />
+				<Clues currentTheme={this.props.currentTheme} />
 			</div>
 	    );
 	}
