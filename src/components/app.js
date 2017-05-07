@@ -6,6 +6,7 @@ import Grid from './grid';
 import Clues from './clues';
 
 require('./../../styles/app.scss');
+require('./../../styles/button.scss');
 
 export class App extends Component {
 	componentWillMount() {
@@ -22,8 +23,13 @@ export class App extends Component {
 			<div>
 				<Grid currentTheme={this.props.currentTheme} />
 				<Clues currentTheme={this.props.currentTheme} />
+				<button className="button button--homepage" type="button" onClick={this.submit}>Submit</button>
 			</div>
 	    );
+	}
+
+	submit() {
+
 	}
 }
 
