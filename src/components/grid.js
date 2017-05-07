@@ -8,7 +8,7 @@ export default class Grid extends Component {
 		let i;
 		let rows = [];
 
-		for (i = 0; i < 12; i++) {
+		for (i = 1; i <= 12; i++) {
 			rows.push((
 				<div key={`row-${i}`} className="grid__row">
 					{this.renderCells(i)}
@@ -23,11 +23,12 @@ export default class Grid extends Component {
 		let i, isActive;
 		let cells = [];
 
-		for (i = 0; i < 12; i++) {
-			isActive = this.isActive(i + 1, row + 1);
+		for (i = 1; i <= 12; i++) {
+			isActive = this.isActive(i, row);
 
 			cells.push((
 				<input
+					name={`${i}-${row}`}
 					key={`cell-${row}-${i}`}
 					className={"grid__cell" + (isActive ? " grid__cell--active" : " grid__cell--inactive")}
 					type="text"
