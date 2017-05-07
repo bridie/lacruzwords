@@ -24,7 +24,7 @@ export default class Grid extends Component {
 		let cells = [];
 
 		for (i = 0; i < 12; i++) {
-			isActive = this.isActive(row + 1, i + 1);
+			isActive = this.isActive(i + 1, row + 1);
 
 			cells.push((
 				<input
@@ -47,7 +47,7 @@ export default class Grid extends Component {
 		)
 	}
 
-	isActive(row, cell) {
+	isActive(cell, row) {
 		let isActive = false;
 		const letterPositions = _.flatten(_.map(this.props.currentTheme, 'letters'));
 
