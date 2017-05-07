@@ -30,6 +30,36 @@ exports[`Clues Component renders correctly 1`] = `
       </span>
       crocodile
     </p>
+    <p>
+      <span>
+        6
+        .
+      </span>
+      <span>
+         
+      </span>
+      spider
+    </p>
+    <p>
+      <span>
+        7
+        .
+      </span>
+      <span>
+         
+      </span>
+      cat
+    </p>
+    <p>
+      <span>
+        9
+        .
+      </span>
+      <span>
+         
+      </span>
+      elephant
+    </p>
   </div>
   <div
     className="clues__column clues__column--down"
@@ -46,6 +76,36 @@ exports[`Clues Component renders correctly 1`] = `
          
       </span>
       rhinoceros
+    </p>
+    <p>
+      <span>
+        4
+        .
+      </span>
+      <span>
+         
+      </span>
+      turtle
+    </p>
+    <p>
+      <span>
+        5
+        .
+      </span>
+      <span>
+         
+      </span>
+      monkey
+    </p>
+    <p>
+      <span>
+        8
+        .
+      </span>
+      <span>
+         
+      </span>
+      rabbit
     </p>
   </div>
 </div>
